@@ -1,0 +1,73 @@
+WELCOME TO P.P.R BUS BOOKING
+****************************
+Bus No ->1 BusRoute  :Chennai To Bangalore  Coach: A/C  Seats Available: 5
+Bus No ->2 BusRoute  :Chennai To Kochin  Coach: A/C  Seats Available: 2
+Bus No ->3 BusRoute  :Chennai To Mumbai  Coach: A/C  Seats Available: 10
+Bus No ->4 BusRoute  :Chennai To Tirupati  Coach: A/C  Seats Available: 20
+Bus No ->5 BusRoute  :Bangalore To Chennai  Coach: Non-A/C  Seats Available: 15
+---------------------------------------------------------------------------------
+Press "Y" to Booking "N" to Exit
+y
+Select Bus Number[1 To 5] : 
+2
+Enter Passenger Name : 
+ppr
+Enter Date of journey as : DD-MM-YYYY
+02-04-2023
+Confirm You Details
+~~~~~~~~~~~~~~~~~~~
+ NAME                       : PPR
+ DATE OF JOURNEY            : 02-04-2023
+ BUS NO (verify for routes) : 2
+ NUMBER OF SEATS            : 1
+
+
+Please Wait to Confirm your Booking.....
+Total Number Of Seats Available : 2
+Number of Seats Previously Booked : 0
+Your booking is confirmed
+Press "Y" to Booking "N" to Exit
+y
+Select Bus Number[1 To 5] : 
+2
+Enter Passenger Name : 
+srini
+Enter Date of journey as : DD-MM-YYYY
+02-04-2023
+Confirm You Details
+~~~~~~~~~~~~~~~~~~~
+ NAME                       : SRINI
+ DATE OF JOURNEY            : 02-04-2023
+ BUS NO (verify for routes) : 2
+ NUMBER OF SEATS            : 1
+
+
+Please Wait to Confirm your Booking.....
+Total Number Of Seats Available : 2
+Number of Seats Previously Booked : 1
+Your booking is confirmed
+Press "Y" to Booking "N" to Exit
+y
+Select Bus Number[1 To 5] : 
+2
+Enter Passenger Name : 
+jk
+Enter Date of journey as : DD-MM-YYYY
+02-04-2023
+Confirm You Details
+~~~~~~~~~~~~~~~~~~~
+ NAME                       : JK
+ DATE OF JOURNEY            : 02-04-2023
+ BUS NO (verify for routes) : 2
+ NUMBER OF SEATS            : 1
+
+
+Please Wait to Confirm your Booking.....
+Total Number Of Seats Available : 2
+Number of Seats Previously Booked : 2
+Sorry. Bus is full. Try another bus or date.
+Press "Y" to Booking "N" to Exit
+n
+Thank You Visit Again...
+
+Process finished with exit code 0
